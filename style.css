@@ -1789,10 +1789,6 @@ table td.bck-td {
 	right: 0;
     top: 52px;
 }
-}
-
-
-
 
 }
 @media screen and (max-width: 450px) {
@@ -1875,7 +1871,7 @@ table td.bck-td {
 
 @media screen and (max-width: 768px){
 .content_type_clase_Delta .Delta-navbar .navbar-content {
-    height: 55%;
+    height: 50%;
     max-width: 730px;
     margin: auto;
 }
