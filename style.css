@@ -361,7 +361,7 @@ body.is_app .Delta-navbar.ocultar {
 	background-repeat: no-repeat;
 	background-position: right;
 	background-size: contain;
-	height: 50%;
+	height: 100%;
 }
 
 .content_type_clase_Delta .Delta-navbar .dropdownTemas {
