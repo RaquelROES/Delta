@@ -1723,6 +1723,16 @@ table td.bck-td {
 
 @media screen and (max-width: 768px) {
 
+
+.content_type_clase_Delta .Delta-navbar .navbar-content {
+    max-width: 730px;
+    margin: auto;
+}
+
+.content_type_clase_Delta .Delta-navbar .navbar-content h2 a {
+    margin-left: 40px;
+}
+
 	#actividad .carousel-inner .class_slide {
         padding: 40px 20px 0px;
     }
@@ -1764,10 +1774,13 @@ table td.bck-td {
 
 
 @media screen and (max-width: 1024px) {
+
 .content_type_clase_Delta .Delta-navbar .navbar-content {
     max-width: 825px;
     margin: auto;
+    height: 50%;
 }
+
 
 .content_type_clase_Delta .Delta-navbar .navbar-content h2 a {
     margin-left: 135px;
@@ -1778,19 +1791,15 @@ table td.bck-td {
 }
 }
 
-@media screen and (max-width: 768px) {
-.content_type_clase_Delta .Delta-navbar .navbar-content {
-    max-width: 730px;
-    margin: auto;
-}
 
-.content_type_clase_Delta .Delta-navbar .navbar-content h2 a {
-    margin-left: 40px;
-}
 
 
 }
 @media screen and (max-width: 450px) {
+
+.content_type_clase_Delta .Delta-navbar .navbar-content {
+    background-image: none;
+}
 
 .content_type_clase_Delta .Delta-navbar .navbar-content h2 {
     font-size: 20px;
@@ -1812,10 +1821,6 @@ table td.bck-td {
 
 #actividad .carousel-inner .class_slide {
     padding: 5px 20px 0px;
-}
-
-.content_type_clase_Delta .Delta-navbar .navbar-content {
-    background-image: none;
 }
 
 .content_type_clase_Delta .Delta-navbar .dropdown button {
@@ -1867,26 +1872,16 @@ table td.bck-td {
 }
 
 
-@media screen and (max-width: 1024px){
-.content_type_clase_klett .klett-navbar .navbar-content {
-    max-width: 825px;
-    margin: auto;
-    height: 60%;
-}
-}
 
 @media screen and (max-width: 768px){
-.content_type_clase_klett .klett-navbar .navbar-content {
+.content_type_clase_Delta .Delta-navbar .navbar-content {
     height: 55%;
     max-width: 730px;
     margin: auto;
 }
 }
 
-@media screen and (max-width: 450px){
-.content_type_clase_klett .klett-navbar .navbar-content {
-    background-image: none;
-}
-}
+
+
 
 
