@@ -1664,23 +1664,23 @@ table td.bck-td {
 }
 
 .btn-danger{
-    background-color: #14618c;
+    background-color: #13A7CE;
 }
 
 #actividad .class_slide .review .btn-save[disabled]{
-    background-color: #14618c;
+    background-color: #13A7CE;
 }
 
 .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open .dropdown-toggle.btn-danger {
-    background-color: #14618c;
+    background-color: #13A7CE;
 }
 
 .btn-save{
-    background-color: #14618c;
+    background-color: #13A7CE;
 }
 
 #actividad .content .review .attemps span {
-     background-color: #14618c;
+     background-color: #13A7CE;
 }
 
 .btn-solution, .btn-solution.disabled, .btn-solution[disabled], .btn-next, .btn-next.disabled, .btn-next[disabled], .btn-solution:hover, .btn-solution:focus, .btn-solution:active, .btn-next:hover, .btn-next:focus, .btn-next:active, .open .dropdown-toggle.btn-solution {
