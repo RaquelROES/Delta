@@ -1597,7 +1597,7 @@ table td.bck-td {
       vertical-align: sub;
     content: "G";
     color: #fff;
-    background: #B51434;
+    background: #13A7CE;
     padding: 2px 4px;
     font-family: sans-serif;
 }
@@ -1606,7 +1606,7 @@ table td.bck-td {
 	vertical-align: sub;
     content: "G";
     color: #fff;
-    background: #B51434;
+    background: #13A7CE;
     padding: 2px 4px;
     font-family: sans-serif;
 }
@@ -1632,7 +1632,7 @@ table td.bck-td {
 
 .bck-dropdown.Delta-dropdown-3 .fa-chevron-up:before {
     vertical-align: sub;
-    content: "Â¡";
+    content: "¡";
     color: #fff;
     background: #13A7CE;
     padding: 0px 8px 4px;
@@ -1876,8 +1876,5 @@ table td.bck-td {
     margin: auto;
 }
 }
-
-
-
 
 
